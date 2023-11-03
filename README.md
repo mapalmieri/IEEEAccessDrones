@@ -13,6 +13,6 @@ The file script_launch is a bash script that automatically:
   Drones_cosimulation_run.ipynb is a Jupyter Notebook based on Python that simplifies the usage of this repository.
 Considering that the material of this repository is based on a Unix-like OS, the notebook exploits Google Colab to run on a virtual machine hosted by Google.
 
-The easiest way to use this tutorial is to run the Drones_cosimulation_run.ipynb notebook on Google Colab using the "Open in Colab" button at the top of the notebook.
+The easiest way to exploit this repository is to run the Drones_cosimulation_run.ipynb notebook on Google Colab using the "Open in Colab" button at the top of the notebook.
 The only requirement for the users is to have a Google Account.
 Once in the Google Colab Environment the user should hit the command Runtime->execute All (shortcut Ctrl+F9) 
