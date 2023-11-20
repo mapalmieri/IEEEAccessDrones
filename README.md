@@ -17,5 +17,6 @@ Considering that the material of this repository is based on a Unix-like OS, the
 <b>Users don't need to download this GitHub repository.</b>
 The intended way to exploit this repository is to run the [Drones_cosimulation_run.ipynb](./Drones_cosimulation_run.ipynb) notebook on Google Colab using the "Open in Colab" button at the top of the notebook directly from the [this](./Drones_cosimulation_run.ipynb) GitHub page.
 The only requirement for the users is to have a Google Account.
-Once in the Google Colab Environment the user should hit the command Runtime->execute All (shortcut Ctrl+F9)
+Once in the Google Colab Environment the user should hit the command Runtime->execute All (shortcut Ctrl+F9).
+
 The co-simulation is configured with τ = 30 and  gain parameters λ<sub>A</sub> = 8 and λ<sub>P</sub> = 0.9. The plots of the desired and actual x-coordinate for drone 1 are displayed.
